@@ -1,0 +1,247 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <title>Smk Pelita Bandung</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+
+<div class="jumbotron text-center">
+  <body>    
+
+     <?php include "layout/header.php" ?>
+
+   
+  <h1>Smk Pelita 1 Bandung</h1>
+  <p>Jl. Cikutra-Sekejati No. 09 Bandung
+</p> 
+<p>Terakreditasi : asdasdA (Amat Baik)</p>
+</div>
+<div class="container">
+    <div class="col-md-12">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="foto/pelita.jpg" style="height: 440px" width="1200px">
+      </div>
+
+      <div class="item">
+        <img src="foto/famous.jpg" style="height: 440px" width="1200px">
+      </div>
+    
+      <div class="item">
+        <img src="foto/famous.jpg" style="height: 440px" width="1200px">
+      </div>
+    </div>
+
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
+</div>
+<br>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+
+<style type="margin top">
+<p><h1 style="width: 20px; height: auto;"><center><strong>Strategi</strong></center></h1></p>
+<p>1.Menjalankan norma-norma yang dapat menunmbuh kembangkan kepribadian</p>
+<p>2.Melaksanakan Proses Pembelajaran dan bimbingan secara efektif dan efisien</p>
+<p>3.Mengembangkan Iptek</p>
+<p>4.Memberi bekal keahlian produktif</p>
+<p>5.Memberi keterampilan dan keahlian kerja</p>
+<p>6.Menumbuhkan daya kreatif dan inovatif</p>
+</div> 
+<div class="col-md-6">
+  <p><h1 style="width: 20px; height: auto;"><center><strong>Potensi</strong></center></h1></p>
+  <p>1.Tempat/lokasi strategis berada di kawasan lingkungan pendidikan</p>
+  <p>Akses mudah dijangkau oleh angkutan kota dari berbagai jurusan</p>
+  <p>3.Gedung sekolah refresentatif milik sendiri (Tidak Menyewa). Aman tertib nyaman dan menyenangkan</p>
+  <p>4.Memiliki lapangan upacara, lapangan bulu tangkis, basket, volly dan futsal</p>
+  <p>5.Memiliki ruang teori dan ruang praktek / laboratorium bahasa , pemasaran, perkantoran, bengkel motor dan komputer.</p>
+  <p>6.Memiliki Bussines center / Teaching Factory / Teaching Industries yang memadai</p>
+  <p>7.Memiliki studio musik dan karaoke</p>
+  <p>8.Memiliki basecamp / sanggar ekstrakurikuler</p>
+  <p>9.Memiliki hotspot / Jaringan internet gratis</p>
+  <p>10.Memiliki guru-guru yang piawai, handal dan profesional di bidangnya</p>
+    
+  </style>
+  </div>
+</div>
+    <div class="col-md-6">
+      <style type="margin top">
+<p><h1 style="width: 20px; height: auto;"><center><strong>Visi</strong></center></h1></p>
+  <p>“Menjadi sekolah unggulan dalam bidang Bisnis dan Teknik yang dilandasi dengan Percaya diri, Empati, Luwes, Inovatif, Terampil, Aktif dan Kreatif”.</p>
+</div>
+<div class="col-md-6">
+  <p><h1 style="width: 20px; height: auto;"><center><strong>Misi</strong></center></h1></p>
+    <br>1. Melaksanakan proses pembelajaran dan bimbingan secara efektif dan efisien.</br> 
+                         <br>2. Menerapkan aturan-aturan yang dapat menumbuhkembangkan kepribadian.</br> <br>3. Menunbuhkan pemahaman dan penghayatan terhadap ajaran agama.</br> <br>4. Memberi bekal dasar kepada tamatan untuk mengembangkan dirinmya secara berkelanjutan.</br> <br>5. Memberi keahlian yang dapat diandalkan sebagai bekal untuk membuat dirinya menjadi produktif.</br> <br>6. Menciptakan calon-calon tenaga kerja tenaga kerja yang berkualitas profesianal sehingga mampu berperan sebagai faktor keunggulan.</br> <br>7. Mempersiapkan calon tenaga keja untuk mengisi kebutuhan dunia kerja.</br>
+</style>
+</div>
+   <div class="col-md-6">
+<p><h1><center><strong>Arti Lambang Sekolah</strong></center></h1></p>
+    <img class="card-img-top rounded-circle border border-dark" src="foto/pelita - Copy.jpg" style="height: 300px; width: auto;"/ alt="Card image cap">
+    <h3>Pola Dasar</h3>
+    <p>Dalam lambang terdiri Tameng Segi Lima, Obor , Sayap dan Buku serta memiliki warna dasar Hijau.</p>
+    <h3>Makna</h3>
+    <p>Tiga tujuan utama yang melandasi proses pendidikan yang dapat memberi arahan bimbingan, pembinaan dan gambaran dalam mewujudkan cita-cita insani yang beriman bertakwa serta memiliki kualitas profesional, sehingga mampu ungguldi lapangan kerja.</p>
+</div>
+<div class="col-md-6">
+  <p><h1><center><strong>Arti dan Unsur Unsurnya</strong></center></h1></p>
+   <h3>Tameng / Waspada Purba Wisesa</h3>
+   <p>Melambangkansebuah alat pengaman untuk selalu waspada terhadap segala sesuatu yang dianggap negatif, mampu mengaawasi dan memberikan koreksi pada semua pihak sejalan dengan norma-norma yang berlaku berdasarkan pada pancasila.</p>
+   <br>
+   <h3>Obor / Dian</h3>
+   <p>Dengan tiga lidah bara api mengandung makna sebagai alat penerang dan pemberi motivasi terhadap dunia pendidikan , pantang menyerah dalam belajar , bekerja dan berkarya!.</p>
+   <br>
+   <h3>Sayap / Saludra</h3>
+   <p>Melambangkan sebuah lembaga yang mampu mengangkat , mengarahkan dan membentuk insan penerus bangsa yang memiliki martabat yang tinggi melalui pendidikan.</p>
+   <br>
+   <h3>Buku / Widya</h3>
+   <p>Melambangkan sebagai alat dalam mencari segala sumber dari ilmu pengetahuan yang dikaji dan dipelajari tanpa mengenal kata lelah demi bekal hidup di masa yang akan datang.</p>
+</div>
+<br>
+<br>
+<br>
+<div class="container">
+      <div class="row">
+        <div class="col col-md-12">
+          <p><h1><center><bold><strong>Jurusan di Smk Pelita</strong></bold></center></h1></p>
+        <div class="col-md-3">
+
+          <div class="card" style="width: 20rem;">
+            <img class="card-img-top rounded-circle border border-dark" src="foto/pk.jpg" style="height: 200px; width: auto;"/ alt="Card image cap">
+            <div class="card-body">
+              <h4 class="card-title">Administrasi Perkantoran (PK)</h4>
+              <p class="card-text">PK/APK atau yang sering kita sebut sebagai Administrasi Perkantoran ini, merupakan bidang keahlian yang memfokuskan para murid tentang ilmu perkantoran </p>
+              <a href="perkantoran.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 20rem;">
+            <img class="card-img-top rounded-circle border border-dark" src="foto/ti.jpg" style="height: 200px; width: auto;"/ alt="Card image cap">
+            <div class="card-body">
+              <h4 class="card-title">Teknik Informatika/Rekayasa Perangkat Lunak (TI)</h4>
+              <p class="card-text">Teknik Infornatika Alias Rekayasa Perangkat lunak adalah sebuah bidan keahlian yang memfokuskan anak untuk mempelajari ilu komputer</p>
+              <a href="rpl.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="height: : 20rem;">
+            <img class="card-img-top rounded-circle border border-dark" src="foto/to.jpg" style="height: 200px; width: auto;"/ alt="Card image cap">
+            <div class="card-body">
+              <h4 class="card-title">Teknik Otomotif (TO)</h4>
+              <p class="card-text">Teknik Otomotif adalah sebuah bidang keahlian yang memfokuskan anak untuk mempelajari ilmu permesinan </p>
+              <a href="otomotif.php" class="btn btn-primary">Lebih Lanjut</a>
+        
+            </div>
+          </div>  
+        </div>
+         <div class="col-md-3">
+          <div class="card" style="height: : 20rem;">
+            <img class="card-img-top rounded-circle border border-dark" src="foto/pn.jpg" style="height: 200px; width: auto;"/ alt="Card image cap">
+            <div class="card-body">
+              <h4 class="card-title">Perdagangan dan Pemasaran (PN)</h4>
+              <p class="card-text">Perdaganan dan Pemasaran yang disingkat PN adalah sebuah bidang keahlian yang memfokuskan anak untuk mempelajari ilmu perdagangan atau perniagaan</p>
+              <a href="pemasaran.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+      </div>
+</div>
+<br><br>
+<div class="container">
+      <div class="row">
+        <div class="col col-md-12">
+          <p><h1><center><bold><strong>Ekstrakurikuler di Smk Pelita</strong></bold></center></h1></p>
+        <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+
+          <div class="card" style="width: 100%;">
+           <div class="panel-heading post-thumb">
+        <img class="img img-responsive" src="foto/pasus.jpg" style="height: 150px; width: auto;"/ />
+    </div>
+            <div class="card-body">
+              <h4 class="card-title"><center>Pasukan Khusus</center></h4>
+              <p class="card-text">Adalah sebuah pasukan khusus pengibar sang merah putih. </p>
+              <a href="pasus.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card" style="width: 100%;">
+            <div class="panel-heading post-thumb">
+        <img class="img img-responsive" src="foto/korsel.jpg" style="height: 150px; width: auto;"/ />
+    </div>
+            <div class="card-body">
+              <h4 class="card-title"><center>Taekwondo</center></h4>
+              <p class="card-text">Adalah sebuah ekstrakurikuler bela diri asal Korea Selatan</p>
+              <a href="taekwondo.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card" style="width: 100%;">
+           <div class="panel-heading post-thumb">
+        <img class="img img-responsive" src="foto/database.jpg" style="height: 150px; width: auto;"/ />
+    </div>
+            <div class="card-body">
+              <h4 class="card-title"><center>Base Computer</h4>
+              <p class="card-text">Adalah sebuah ekstrakuriler yang menyajikan beragam ilmu komputer </p>
+              <a href="bascom.php" class="btn btn-primary">Lebih Lanjut</a>
+        
+            </div>
+          </div>  
+        </div>
+         <div class="col-md-4">
+          <div class="card" style="width: 100%;">
+            <div class="panel-heading post-thumb">
+        <img class="img img-responsive" src="foto/jamic.jpg" style="height: 150px; width: auto;"/>
+    </div>
+            <div class="card-body">
+              <h4 class="card-title">Remaja Islamic</h4>
+              <p class="card-text">Adalah sebuah kelompok rohis yang di bentuk oleh para pemuda pemudi untuk meningkatkan ukhuwah serta akhlak</p>
+              <a href="jamic.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+      </div>
+       <div class="col-md-4">
+          <div class="card" style="width: 100%;">
+            <div class="panel-heading post-thumb">
+              <img class="img img-responsive" src="foto/Pramuka-Logo.jpg" style="height: 150px; width: auto;">
+            <div class="card-body">
+              <h4 class="card-title">Pramuka</h4>
+              <p class="card-text">Adalah sebuah kelompok rohis yang di bentuk oleh para pemuda pemudi untuk meningkatkan ukhuwah serta </p>
+              <a href="pramuka.php" class="btn btn-primary">Lebih Lanjut</a>
+            </div>
+          </div>
+      </div>
+</div>
+</div>
+<center><h1>Tertarik dengan sekolah kami?<br>silahkan klik tombol dibawah ini untuk mendaftar</h1></center>
+<center><p><h1><a href="pendaftaran.php" class="btn btn-primary"> Daftar</a></h1></p></center>
+
+</body>
+ 
+</html>
